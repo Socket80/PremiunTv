@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", - 252 ComedyC
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", - 290 CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", 25-292 Discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", 27-286 NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", 29-236 DH&H
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", 30-214 TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", 31-370 TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:0 type="stream" channelId="188" group="Lista 6 Guatemala", SONY
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Uno
+http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:0 type="stream" channelId="1954" group="Lista 6 Guatemala", CANAL DE LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Imagen
+http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Cinco
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:0 type="stream" channelId="2659" group="Lista 6 Guatemala", Multimedios
+http://181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Siete
+http://181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", ONCE
+http://181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Canal 14
+http://181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", UNAM
+http://181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:0 type="stream" channelId="2698" group="Lista 6 Guatemala", Canal22
+http://181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Congreso
+http://181.78.105.146:2000/play/a046/index.m3u8
+#EXTINF:0 type="stream" channelId="265" group="Lista 6 Guatemala", MVSTV
+http://181.78.105.146:2000/play/a03b/index.m3u8
+#EXTINF:0 type="stream" channelId="187" group="Lista 6 Guatemala", Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:0 type="stream" channelId="1573" group="Lista 6 Guatemala", AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:0 type="stream" channelId="1303" group="Lista 6 Guatemala", FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:0 type="stream" channelId="1208" group="Lista 6 Guatemala", A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Investigation Discovery La
+http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:0 type="stream" channelId="67" group="Lista 6 Guatemala", TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:0 type="stream" channelId="1200" group="Lista 6 Guatemala", Lifetime
+http://181.78.105.146:2000/play/a01i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", HOLA
+http://181.78.105.146:2000/play/a00n/index.m3u8
+#EXTINF:0 type="stream" channelId="1188" group="Lista 6 Guatemala", E!
+http://181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", VideRola
+http://181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", TELER
+http://181.78.105.146:2000/play/a03u/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", OnceKids
+http://181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", AprendeTV2
+http://181.78.105.146:2000/play/a04h/index.m3u8
+#EXTINF:0 type="stream" channelId="3771" group="Lista 6 Guatemala", IngenioTV
+http://181.78.105.146:2000/play/a04i/index.m3u8
+#EXTINF:0 type="stream" channelId="57" group="Lista 6 Guatemala", Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:0 type="stream" channelId="56" group="Lista 6 Guatemala", NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:0 type="stream" channelId="1455" group="Lista 6 Guatemala", History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:0 type="stream" channelId="1201" group="Lista 6 Guatemala", History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:0 type="stream" channelId="344" group="Lista 6 Guatemala", ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" group="Lista 6 Guatemala", ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:0 type="stream" channelId="355" group="Lista 6 Guatemala", ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", CNNE
+http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Milenio
+http://181.78.105.146:2000/play/a00y/index.m3u8
+#EXTINF:0 type="stream" channelId="3627" group="Lista 6 Guatemala", TVC
+http://181.78.105.146:2000/play/a04m/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Judicial
+http://181.78.105.146:2000/play/a04n/index.m3u8
+#EXTINF:0 type="stream" channelId="291" group="Lista 6 Guatemala", MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", CineCanal O
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Films
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:0 type="stream" channelId="2625" group="Lista 6 Guatemala", StudioUniversal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:0 type="stream" channelId="1719" group="Lista 6 Guatemala", Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", AGROTENDENCIA
+http://181.78.105.146:2000/play/a08b/index.m3u8
+#EXTINF:0 type="stream" channelId="255" group="Lista 6 Guatemala", Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:0 type="stream" channelId="1959" group="Lista 6 Guatemala", BANDAMAX
+http://181.78.105.146:2000/play/a08h/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", CTV CANAL
+http://181.78.105.146:2000/play/a08s/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Canal 27 GT
+http://181.78.105.146:2000/play/a08x/index.m3u8
+#EXTINF:0 type="stream" channelId="1952" group="Lista 6 Guatemala", DE PELICULA
+http://181.78.105.146:2000/play/a090/index.m3u8
+#EXTINF:0 type="stream" channelId="1961" group="Lista 6 Guatemala", Distrito Comedia
+http://181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:0 type="stream" channelId="2502" group="Lista 6 Guatemala", GOLDEN EDGE
+http://181.78.105.146:2000/play/a08k/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", SKY
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", TELENOVELAS
+http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:0 type="stream" channelId="3798" group="Lista 6 Guatemala", TN23
+http://181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:0 type="stream" channelId="3804" group="Lista 6 Guatemala", TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:0 type="stream" channelId="388" group="Lista 6 Guatemala", UNICABLE
+http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", canal 13 Guate
+http://181.78.105.146:2000/play/a08p/index.m3u8
